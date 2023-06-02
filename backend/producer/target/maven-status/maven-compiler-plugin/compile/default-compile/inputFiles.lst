@@ -1,0 +1,7 @@
+/home/ademir/Ademir/GitHub/Java-kafka/backend/producer/src/main/java/br/com/project/java/kafka/producer/repository/UserRepository.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/producer/src/main/java/br/com/project/java/kafka/producer/ProducerApp.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/producer/src/main/java/br/com/project/java/kafka/producer/config/RestCorsConfig.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/producer/src/main/java/br/com/project/java/kafka/producer/controller/ProducerController.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/producer/src/main/java/br/com/project/java/kafka/producer/model/UserModel.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/producer/src/main/java/br/com/project/java/kafka/producer/config/KafkaConfig.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/producer/src/main/java/br/com/project/java/kafka/producer/services/ProducerService.java

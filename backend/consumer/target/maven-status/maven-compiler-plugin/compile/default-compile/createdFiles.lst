@@ -1,0 +1,9 @@
+br/com/project/java/kafka/consumer/config/KafkaConfig.class
+br/com/project/java/kafka/consumer/config/CorsConfig.class
+br/com/project/java/kafka/consumer/services/ConsumerService$2.class
+br/com/project/java/kafka/consumer/services/ConsumerService.class
+br/com/project/java/kafka/consumer/ConsumerApp.class
+br/com/project/java/kafka/consumer/services/ConsumerService$1.class
+br/com/project/java/kafka/consumer/model/UserModel.class
+br/com/project/java/kafka/consumer/controller/ConsumerController.class
+br/com/project/java/kafka/consumer/model/UserEventListener.class

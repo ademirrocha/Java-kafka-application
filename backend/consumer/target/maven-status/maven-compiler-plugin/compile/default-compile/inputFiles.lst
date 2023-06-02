@@ -1,0 +1,7 @@
+/home/ademir/Ademir/GitHub/Java-kafka/backend/consumer/src/main/java/br/com/project/java/kafka/consumer/controller/ConsumerController.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/consumer/src/main/java/br/com/project/java/kafka/consumer/config/CorsConfig.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/consumer/src/main/java/br/com/project/java/kafka/consumer/model/UserEventListener.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/consumer/src/main/java/br/com/project/java/kafka/consumer/model/UserModel.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/consumer/src/main/java/br/com/project/java/kafka/consumer/services/ConsumerService.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/consumer/src/main/java/br/com/project/java/kafka/consumer/ConsumerApp.java
+/home/ademir/Ademir/GitHub/Java-kafka/backend/consumer/src/main/java/br/com/project/java/kafka/consumer/config/KafkaConfig.java

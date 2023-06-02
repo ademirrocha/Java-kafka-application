@@ -1,0 +1,8 @@
+br/com/project/java/kafka/producer/model/UserModel.class
+br/com/project/java/kafka/producer/services/ProducerService.class
+br/com/project/java/kafka/producer/repository/UserRepository.class
+br/com/project/java/kafka/producer/controller/ProducerController.class
+br/com/project/java/kafka/producer/config/RestCorsConfig.class
+br/com/project/java/kafka/producer/ProducerApp.class
+br/com/project/java/kafka/producer/config/KafkaConfig.class
+br/com/project/java/kafka/producer/config/RestCorsConfig$1.class
