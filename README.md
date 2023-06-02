@@ -62,4 +62,4 @@ Após isso é só enviar dados para o producer que irão aparcer na página do n
 
 ## Exemplo de Resultado
 
-![alt text](../examples/app.png)
+![alt text](./examples/app.png)
